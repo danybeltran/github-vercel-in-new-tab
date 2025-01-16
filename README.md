@@ -4,6 +4,7 @@
 
 To install this extension as a dev extension:
 
+- Download this repo
 - go to `chrome://extensions` or `edge://extensions/`
 - enable developer mode
 - click on 'Load unpacked'
