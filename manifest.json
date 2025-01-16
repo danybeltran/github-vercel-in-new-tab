@@ -1,6 +1,6 @@
 {
   "name": "Vercel Previews in new tab",
-  "description": "Open Vercel Github preview Links in a new tab",
+  "description": "Opens Vercel Inspect and Preview links in a new tab",
   "version": "1.0",
   "manifest_version": 3,
   "action": {
