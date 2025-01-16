@@ -9,3 +9,5 @@ To install this extension as a dev extension:
 - click on 'Load unpacked'
 
 Upload this folder
+
+And it should work, your vercel inspect and preview links should open in a new tab
